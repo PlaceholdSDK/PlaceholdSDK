@@ -1,0 +1,6 @@
+framework module PlaceholdSDK {
+  umbrella header "PlaceholdSDK.h"
+
+  export *
+  module * { export * }
+}
