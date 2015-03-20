@@ -94,3 +94,15 @@ imageView.frame = IMAGE_VIEW_FRAME;
     NSLog(@"Image downloaded and set.");
 }];
 ```
+
+## Credits
+
+PlaceholdSDK was originally created by Yuval Suede and Yossi Tsafar.
+
+## Contact
+
+Go to our website [http://placehold.photos](http://placehold.photos)
+
+## License
+
+PlaceholdSDK is available under the MIT license. See the LICENSE file for more info.
