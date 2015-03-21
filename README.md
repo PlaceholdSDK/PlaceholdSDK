@@ -97,7 +97,7 @@ imageView.frame = IMAGE_VIEW_FRAME;
 
 ## Credits
 
-PlaceholdSDK was originally created by Yuval Suede and Yossi Tsafar.
+PlaceholdSDK was originally created by Yuval Suede and Yossi Tsafar
 
 ## Contact
 
