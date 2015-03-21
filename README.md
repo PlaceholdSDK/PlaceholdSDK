@@ -1,6 +1,6 @@
 # PlaceholdSDK
 
-#### PlaceholdSDK is a great library for iOS. It was built for users who are developing an app and want a quick solution for missing photos. It is simple and easy to use.
+#### PlaceholdSDK is an image placeholder library for iOS.
 
 ## How To Get Started
 Simply download the SDK and add it to your project
